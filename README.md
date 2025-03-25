@@ -20,6 +20,7 @@ git clone https://github.com/iyazdanicharati/iceditor-frd.git
 
 # Navigate to the project directory
 cdiceditor-frd
+```
 
 ## 💻 Usage
 
